@@ -2,4 +2,4 @@
 
 # Utilized Java and OOP methods
 
-To run, build and execute Core.java
+To run, build and execute Core.java (Data_Base_1/src/Core.java)
